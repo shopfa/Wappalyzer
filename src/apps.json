@@ -8469,6 +8469,16 @@
       ],
       "website": "http://shopery.com"
     },
+    "Shopfa": {
+      "cats": [
+        "6"
+      ],
+      "meta": {
+        "generator": "^ShopFA"
+      },
+      "icon": "Shopfa.svg",
+      "website": "https://shopfa.com"
+    },
     "Shopify": {
       "cats": [
         "6"
