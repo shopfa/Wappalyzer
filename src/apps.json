@@ -8473,6 +8473,9 @@
       "cats": [
         "6"
       ],
+     "js": {
+        "shopfa": ""
+      },
       "meta": {
         "generator": "^ShopFA"
       },
